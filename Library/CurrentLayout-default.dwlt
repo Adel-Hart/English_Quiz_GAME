@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Scene
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 2560
     height: 1307
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 102
+  controlID: 130
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 604
     height: 1307
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -150,7 +150,7 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 1357
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 37
+  controlID: 83
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 38
+  controlID: 84
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Source
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Source
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\programing\Eng_Quiz\English Quiz Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2e430000
-    m_LastClickedID: 17198
-    m_ExpandedIDs: 000000001e43000020430000224300002c43000000ca9a3b
+    m_SelectedIDs: 7a430000
+    m_LastClickedID: 17274
+    m_ExpandedIDs: 000000007a4300007c4300007e4300008c43000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001e4300002043000022430000
+    m_ExpandedIDs: 000000007a4300007c4300007e430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -388,7 +388,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000fe65000000000000
+    m_ExpandedInstanceIDs: c6230000fe650000424300000000000030450000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -415,7 +415,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 206
+  m_DirectoriesAreaWidth: 207
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 3ab5ffff
-      m_LastClickedID: -19142
-      m_ExpandedIDs: 3ab5ffff3eb6fffff4b7ffff36c2ffff2ae9ffffb2e9ffffb0eafffff8eaffff46ebffff9afaffff40fbffff4c430000ea570000a65b0000b05b0000ca5b0000de5b00000e5c0000285c0000305c0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2cc3faff44c3faff3ec4faff42c4faff46c4faff4ac4faff50c4faff54c4faff58c4faff5cc4faff64c4faff6ac4faff76cffaff98d2faffdcd2faffc8d3faff94e5faffaae5faffbae5faff04e6faff62e6faff74e6faffc2ecfaffaa06fbff6e1ffbff9a1ffbffac1ffbffe02dfbff02b4fdff0cb4fdff20b4fdff22c6fdff34dcffff62dcffff72dcffff80e7ffff1eebfffff0f9ffff00faffff40fbffffa0420000ca440000e4440000fa46000004470000d0490000785f0000466000005e62000068620000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 797.28314, y: 369.64117, z: -2168.147}
+    m_Target: {x: 549.8081, y: 609.1814, z: -140.0982}
     speed: 2
-    m_Value: {x: 797.28314, y: 369.64117, z: -2168.147}
+    m_Value: {x: 549.8081, y: 609.1814, z: -140.0982}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -596,9 +596,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 448.83002
+    m_Target: 615.407
     speed: 2
-    m_Value: 448.83002
+    m_Value: 615.407
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -681,7 +681,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1

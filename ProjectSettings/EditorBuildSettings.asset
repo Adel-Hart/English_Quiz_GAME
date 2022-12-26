@@ -20,4 +20,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: d2856a9eb59c74d4da4fd90e1ca68c5c
+  - enabled: 1
+    path: Assets/Scenes/Explain.unity
+    guid: 6e0d5a5c74c90db41b25798a7ced0163
+  - enabled: 1
+    path: Assets/Scenes/one.unity
+    guid: 61fb71a0ba609c44fbc72d48368aa05d
+  - enabled: 1
+    path: Assets/Scenes/ten.unity
+    guid: 9fe4a2cae590e80498f2a047d3c3eedb
+  - enabled: 1
+    path: Assets/Scenes/five.unity
+    guid: 6586cd80dfc0e584fbdf9941f983e9d5
+  - enabled: 1
+    path: Assets/Scenes/fifty.unity
+    guid: 6b0339ba754962e45858237549912dc6
   m_configObjects: {}

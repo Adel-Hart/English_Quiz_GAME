@@ -297,7 +297,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uB808\uBCA8 1"
+  m_Text: LEVEL1
 --- !u!222 &336319856
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1091,7 +1091,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uB808\uBCA8 3"
+  m_Text: LEVEL3
 --- !u!222 &1615437530
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1170,7 +1170,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uB808\uBCA8 2"
+  m_Text: LEVEL2
 --- !u!222 &1986607346
 CanvasRenderer:
   m_ObjectHideFlags: 0

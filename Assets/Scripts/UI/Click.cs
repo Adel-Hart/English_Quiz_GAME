@@ -18,5 +18,9 @@ public class Click : MonoBehaviour
         SceneManager.LoadScene("Lv"+menu);
     }
 
+    public void backtoexplain_menu()
+    {
+        SceneManager.LoadScene("Explain");
+    }
 
 }
